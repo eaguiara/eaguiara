@@ -3,7 +3,6 @@
 <p><em>Studying Computer Science at <a href="https://www.unasp.br/sp/">UNASP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-
 [![Linkedin: EduardaAguiar](https://img.shields.io/badge/-EduardaAguiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/eduarda-aguiar-754ba01a6/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub eaguiara](https://img.shields.io/github/followers/eaguiara?label=follow&style=social)](https://github.com/eaguiara)
 ![](https://visitor-badge.glitch.me/badge?page_id=dr2020.dr2020)
@@ -16,6 +15,10 @@ const duda = {
   code: [Javascript, HTML, CSS, C, Python, Java],
   
 ```
+<div>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=eaguiara&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=eaguiara&layout=compact&langs_count=8&theme=dracula"/>
+</div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm new to the programming world but I'm looking forward to learn and I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 

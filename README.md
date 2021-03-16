@@ -3,7 +3,7 @@
 <p><em>Studying Computer Science at <a href="https://www.unasp.br/sp/">UNASP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
-[![Linkedin: EduardaAguiar](https://img.shields.io/badge/-EduardaAguiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/eduarda-aguiar-754ba01a6/)](https://www.linkedin.com/in/thaianebraga/)
+[![Linkedin: EduardaAguiar](https://img.shields.io/badge/-EduardaAguiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/eduarda-aguiar-754ba01a6/)](https://www.linkedin.com/in/eduarda-aguiar-754ba01a6/)
 [![GitHub eaguiara](https://img.shields.io/github/followers/eaguiara?label=follow&style=social)](https://github.com/eaguiara)
 ![](https://visitor-badge.glitch.me/badge?page_id=dr2020.dr2020)
 

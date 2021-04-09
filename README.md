@@ -20,3 +20,4 @@ const duda = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm new to the programming world but I'm looking forward to learn and I love connecting with different people</b> so if you want to say <b>hi, I would be happy to get to know you better!</b> :)</em>
 
 ---
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaguiara&layout=compact&langs_count=8&theme=dracula"/>

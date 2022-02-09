@@ -12,7 +12,7 @@
 
 ```javascript
 const duda = {
-  code: [Javascript, HTML, CSS, C, Python, Java, PowerShell],
+  code: [Javascript, HTML, CSS, C, Python, Java, PowerShell, SQL],
   
 ```
 

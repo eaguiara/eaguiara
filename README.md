@@ -5,7 +5,7 @@
 
 [![Linkedin: EduardaAguiar](https://img.shields.io/badge/-EduardaAguiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/eduarda-aguiar-754ba01a6/)](https://www.linkedin.com/in/eduarda-aguiar-754ba01a6/)
 [![GitHub eaguiara](https://img.shields.io/github/followers/eaguiara?label=follow&style=social)](https://github.com/eaguiara)
-![](https://visitor-badge.glitch.me/badge?page_id=dr2020.dr2020)
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  

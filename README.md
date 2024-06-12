@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Eduarda Aguiar! <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Studying Computer Science at <a href="https://www.unasp.br/sp/">UNASP</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Working as a software engineer  at  <a href="https://www.itau.com.br/">Itau</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 [![Linkedin: EduardaAguiar](https://img.shields.io/badge/-EduardaAguiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/eduarda-aguiar-754ba01a6/)](https://www.linkedin.com/in/eduarda-aguiar-754ba01a6/)

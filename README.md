@@ -1,6 +1,6 @@
 <h2> Hi there, I'm Eduarda Aguiar! <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Working as a software engineer  at  <a href="https://www.itau.com.br/">Itau</a>![itau-logo-branco-48x48]
+<p><em>Working as a software engineer  at  <a href="https://www.itau.com.br/">Itau</a>
 
 
 </em></p>

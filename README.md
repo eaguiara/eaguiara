@@ -1,6 +1,7 @@
 <h2> Hi there, I'm Eduarda Aguiar! <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Working as a software engineer  at  <a href="https://www.itau.com.br/">Itau</a>![itau-logo-branco-48x48](https://github.com/eaguiara/eaguiara/assets/73914795/5b25e64d-49e2-4653-a230-ecfd95a63c6e)
+<p><em>Working as a software engineer  at  <a href="https://www.itau.com.br/">Itau</a>![itau-logo-branco-48x48]
+
 
 </em></p>
 

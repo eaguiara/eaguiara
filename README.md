@@ -14,7 +14,7 @@
 
 ```javascript
 const duda = {
-  code: [HTML, CSS, SQL, C#],
+  code: [HTML, CSS, SQL, C#, Python, AWS, Java, JavaScript, Angular],
   
 ```
 

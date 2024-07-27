@@ -4,9 +4,9 @@ I'm a Computer Engineer, and I have been working as a Back-end developer since 2
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
+### 🌍 "The more I know, the more I am." 🧠
 
-- 📍 From Rio de Janeiro, living in São Paulo - Brazil
+- 📍 From Rio de Janeiro, living in São Paulo - Brazil 🇧🇷
 - 💻 Back-End engineer at [Banco Itaú](https://www.itau.com.br/)
 
 👩‍💻 **Professional Interests:**

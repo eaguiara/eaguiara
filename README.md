@@ -1,25 +1,25 @@
-<h2> Hi there, I'm Eduarda Aguiar! <img src="https://media.giphy.com/media/kBZ212yGzFaxgkSIKW/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Working as a software engineer  at  <a href="https://www.itau.com.br/">Itau</a>
+# Hi there, I'm Eduarda Aguiar! 👋
 
+I'm a Computer Engineer, and I have been working as a Back-end developer since 2021. 💻
 
-</em></p>
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-[![Linkedin: EduardaAguiar](https://img.shields.io/badge/-EduardaAguiar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/eduarda-aguiar-754ba01a6/)](https://www.linkedin.com/in/eduarda-aguiar-754ba01a6/)
-[![GitHub eaguiara](https://img.shields.io/github/followers/eaguiara?label=follow&style=social)](https://github.com/eaguiara)
+### 🌍 "Quanto mais eu sei, mais eu sou" 🧠
 
+- 📍 From Rio de Janeiro, living in São Paulo - Brazil
+- 💻 Back-End engineer at [Banco Itaú](https://www.itau.com.br/)
 
+👩‍💻 **Professional Interests:**
+- 🖥️ Deeply fascinated by all things in computer science - currently studying more about algorithms and data structures.
+- 📱 Developing Back-End software in  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg">   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- 🌩️ Working with ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+- 🛠️ Continuously exploring new technologies and methodologies in software engineering, including ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white).
 
-```javascript
-const duda = {
-  code: [HTML, CSS, SQL, C#, Python, AWS, Java, JavaScript, Angular],
-  
-```
+Reach out to me 👇🏼
 
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduarda-aguiar-754ba01a6/)](https://www.linkedin.com/in/eduarda-aguiar-754ba01a6/)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I'm new to the programming world but I'm looking forward to learn and I love connecting with different people</b> so if you want to say <b>hi, I would be happy to get to know you better!</b> :)</em>
+<hr>
 
----
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaguiara&layout=compact&langs_count=8&theme=dracula"/>
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
